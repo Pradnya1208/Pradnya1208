@@ -1,4 +1,4 @@
-<img src = "https://github.com/Pradnya1208/gif_markdown/blob/main/gif-resize.gif" width="100%">
+<img src = "https://github.com/Pradnya1208/gif_markdown/blob/main/gif_speed.gif" width="100%">
 
 
 <!--
