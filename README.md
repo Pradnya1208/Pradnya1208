@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src = "https://github.com/Pradnya1208/gif_markdown/blob/main/gif_markdown.gif" width="50%">
+
 
 <!--
 **Pradnya1208/Pradnya1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
